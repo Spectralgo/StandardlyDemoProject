@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5rOpuqw/+lkOfMng54PMgvyX3UEbkAOblWSCF0De8+l239lBRvujOqxhScsD29muMIexfXEJKeeeV52J6UeD+g==",
+  "success": true,
+  "projectFilePath": "C:\\code\\standard\\Standardly\\StandardlyDemoProject\\StandardlyDemoProject\\StandardlyDemoProject.Api.Infrastructure.Build\\StandardlyDemoProject.Api.Infrastructure.Build.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rocks\\.nuget\\packages\\adotnet\\2.1.2\\adotnet.2.1.2.nupkg.sha512",
+    "C:\\Users\\rocks\\.nuget\\packages\\fluentassertions\\6.2.0\\fluentassertions.6.2.0.nupkg.sha512",
+    "C:\\Users\\rocks\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\rocks\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512",
+    "C:\\Users\\rocks\\.nuget\\packages\\xeption\\1.7.0\\xeption.1.7.0.nupkg.sha512",
+    "C:\\Users\\rocks\\.nuget\\packages\\yamldotnet\\11.2.1\\yamldotnet.11.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
